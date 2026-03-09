@@ -19,7 +19,7 @@ AISECA is committed to providing a welcoming and professional environment for al
 
 ## Enforcement
 
-Instances of unacceptable behaviour may be reported to contact@aiseca.org. All reports will be reviewed promptly and confidentially.
+Instances of unacceptable behaviour may be reported to conduct@aiseca.org. All reports will be reviewed promptly and confidentially.
 
 ## Attribution
 
