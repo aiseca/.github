@@ -40,7 +40,3 @@ We are building this in the open. If you work in AI security, governance, or ent
 - **Website:** [aiseca.org](https://aiseca.org)
 - **Join the Alliance:** [Apply on our website](https://aiseca.org)
 - **Discussions:** [GitHub Discussions](https://github.com/orgs/aiseca/discussions)
-
----
-
-*Vendor-agnostic. Practitioner-led. Built for the people who actually have to implement this stuff.*
